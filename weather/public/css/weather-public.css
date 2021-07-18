@@ -1,0 +1,21 @@
+.jf_weather_widget {
+    background: whitesmoke; margin-top: 0;
+    margin-bottom: 0 !important;
+}
+
+.jf_weather_widget #jf_weather_current {
+    float: left; margin:0;
+    padding: 0;
+}
+
+.jf_weather_widget #jf_weather_info {
+    padding: 20px 0;
+}
+
+.jf_weather_widget #jf_weather_temp {
+    font-size: 24px;
+}
+
+#jf_weather_alerts {
+    margin: 0;
+}
